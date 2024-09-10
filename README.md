@@ -8,16 +8,16 @@ Repository for IS-594 Project Management class.
 
 -   Initialized project repository
 
--   Create README.md @ bde3d5d
+-   Create README.md @ [bde3d5d](bde3d5d)
 
 </details> 
 
 <details>
 <summary> Week 2 (09/03/2024-09/10/2024) </summary>
 
--   Setup configuration file for the project @ 41cb2d3
+-   Setup configuration file for the project @ [41cb2d3](41cb2d3)
 
--   Setup component folder for the project @ 9a24ff2
+-   Setup component folder for the project @ [9a24ff2](9a24ff2)
 
 -   Update TODO list for the project - [Project Pages](https://github.com/users/HerobrineXia/projects/2/views/1)
 </details> 
