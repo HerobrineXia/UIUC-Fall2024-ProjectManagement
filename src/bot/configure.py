@@ -1,5 +1,4 @@
 import yaml
-import os
 
 class Configure:
     # Configuration file in dictionary format
@@ -35,7 +34,4 @@ class Configure:
         with open("config_template.yaml", 'w') as file:
             for key in self._cfg.keys():
                 yaml.dump({key: "Your " + key}, file)
-
-cfg = Configure()
-cfg.write_template()
 
